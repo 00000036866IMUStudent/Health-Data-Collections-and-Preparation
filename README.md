@@ -2,7 +2,7 @@
 
 # To perform descriptive analysis (statistics) with Python on the datasets and share your findings which lead to better management of the pandemic Covid19 situation.
 
-# Dataset: Covid 19 dataset in Malaysia (Available at https://github.com/MoH Malaysia/covid19 public)
+# Dataset: Covid 19 dataset in Malaysia (Available at https://github.com/MoH-Malaysia/covid19-public)
 
 ## How to run the code
 Place the following datasets in epidemic folder - cases_age.csv, cases_malaysia.csv, cases_state.csv, clusters.csv, deaths_age.csv, deaths_malaysia.csv, deaths_state.csv, hospital.csv
