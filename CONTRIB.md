@@ -2,7 +2,7 @@
 A big welcome and thank you for considering contributing to Health Data Collections and Preparation Project open source project! It’s people like you that make it a reality for users in our community.
 Reading and following these guidelines will help us make the contribution process easy and effective for everyone involved. 
 It also communicates that you agree to respect the time of the developers managing and developing these open source projects. 
-In return, I will reciprocate that respect by addressing your issue, assessing changes, and helping you finalize your pull requests.
+In return, we will reciprocate that respect by addressing your issue, assessing changes, and helping you finalize your pull requests.
 
 # Code of Conduct
 We take our open source community seriously and hold ourselves and other contributors to high standards of communication. 
@@ -10,8 +10,8 @@ By participating and contributing to this project, you agree to uphold our Code 
 
 # Get Started
 Contributions are made to this repo via Issues and Pull Requests (PRs). A few general guidelines that cover both:
- To report security vulnerabilities, please use our Responsible Disclosure Program which is monitored by our security team.
- Search for existing Issues and PRs before creating your own.
+.To report security vulnerabilities, please use our Responsible Disclosure Program which is monitored by our security team.
+.Search for existing Issues and PRs before creating your own.
  
 # Issues
 Issues should be used to report problems with the library, request a new feature, or to discuss potential changes before a PR is created. 
